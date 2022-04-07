@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adhiraj369
 - 👀 I’m mostly aquiped with websites
-- 🌱 I’m currently learning the upcoming trends along with some digital marketing tactiks
+- 🌱 I’m currently learning the upcoming trends along with some digital marketing tactics
 - 💞️ I’m looking to engage in the github community to learn from the greatest of all times.
 
 <!---
